@@ -1,1 +1,1 @@
-demo
+These projects were created during my training period. However, they reflect my commitment to learning and my potential to excel in front end developer. Feel free to reach out if you have any questions or opportunities for collaboration. Thank you for visiting!
